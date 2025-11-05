@@ -1,0 +1,1 @@
+# WebNet.EntityFrameworkCore.DuckDB
